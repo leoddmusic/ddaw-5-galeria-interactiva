@@ -20,8 +20,6 @@ Este proyecto es una galería web que permite:
 - `https://images.unsplash.com/photo-1601758123927-196b5c7fbd4c`
 - `https://images.unsplash.com/photo-1506744038136-46273834b3fb`
 
-> Asegúrate de que la URL sea directa y termine en `.jpg`, `.png`, o provenga de sitios como Unsplash, Imgur, etc.
-
 ## ⚙️ Tecnologías utilizadas
 
 - HTML
